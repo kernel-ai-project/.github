@@ -93,11 +93,5 @@
 2. **법률 정보 검색**: 복잡한 법률 용어를 쉽게 설명
 3. **대화 히스토리 관리**: Redis 캐싱으로 이전 대화 맥락을 유지하여 연속적인 상담 가능
 
-## 💡 화면
-<img width="3024" height="1720" alt="image" src="https://github.com/user-attachments/assets/b92f936d-8e64-4d9e-a132-47369f012de4" />
-
-<img width="3024" height="1720" alt="image" src="https://github.com/user-attachments/assets/c966dd2a-da6f-46c7-afb1-fa86ab89335b" />
-
-<img width="3024" height="1720" alt="image" src="https://github.com/user-attachments/assets/4da8947b-234e-4310-8bc3-600eb8de564a" />
-
-<img width="3024" height="1720" alt="image" src="https://github.com/user-attachments/assets/aa8b35cc-b17a-478b-9a80-2d6069d444ae" />
+## 💡 시연 영상
+https://youtu.be/Zs_BI0OH89g
