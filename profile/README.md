@@ -1,8 +1,8 @@
-# 세금법률 찾붓 서비스 (Tax Law Chatbot Service)
+# 세금법률 챗붓 서비스 (Tax Law Chatbot Service)
 
 ## 📋 프로젝트 개요
 
-세금법률 찾붓 서비스는 청년 사용자를 위한 맞춤형 세금 및 법률 정보 제공 챗봇입니다. 복잡한 세금 용어와 법률 정보를 쉽고 빠르게 찾을 수 있도록 돕는 AI 기반 대화형 서비스입니다.
+세금법률 챗붓 서비스는 청년 사용자를 위한 맞춤형 세금 및 법률 정보 제공 챗봇입니다. 복잡한 세금 용어와 법률 정보를 쉽고 빠르게 찾을 수 있도록 돕는 AI 기반 대화형 서비스입니다.
 
 ## 🎯 프로젝트 배경
 
@@ -14,16 +14,16 @@
 ## 🛠 기술 스택
 
 ### Backend
-- **Framework**: Spring Boot
+- **Framework**: Spring Boot 6.x.x
 - **API**: FastAPI
-- **Database**: Oracle, Redis
+- **Database**: Oracle23ai, Redis
 - **AI/ML**: LangChain, LangGraph
 
 ### Frontend
-- **Framework**: React
+- **Framework**: React.js
 
 ### 캐싱 & 최적화
-- **Cache**: Redis (대화 히스토리 및 응답 캐싱)
+- **Cache**: Redis (대화 히스토리)
 
 ## 📚 발전 과정 및 최적화
 
