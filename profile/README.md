@@ -14,8 +14,8 @@
 ## 🛠 기술 스택
 
 ### Backend
-- **Framework**: Spring Boot 6.x.x
-- **API**: FastAPI
+- Language: Java21, Python3
+- **Framework**: Spring Boot 6.x.x, FastAPI
 - **Database**: Oracle23ai, Redis
 - **AI/ML**: LangChain, LangGraph
 
