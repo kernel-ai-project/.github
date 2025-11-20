@@ -1,4 +1,4 @@
-# 세금법률 챗붓 서비스 (Tax Law Chatbot Service)
+# 세금법률 챗봇 서비스 (Tax Law Chatbot Service)
 
 ## 📋 프로젝트 개요
 
